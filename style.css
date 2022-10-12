@@ -1,0 +1,6 @@
+.number__parent:nth-child(3n) {
+  color: red;
+}
+.number__child:nth-child(n+2) {
+  color: blue;
+}
